@@ -1,0 +1,10 @@
+#Sun Mar 20 01:29:47 NPT 2022
+base.2=C\:\\Users\\subed\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master\\1.2_Part_A_Your_first_interactive_UI\\HelloToast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+path.2=6/classes.dex
+base.1=C\:\\Users\\subed\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master\\1.2_Part_A_Your_first_interactive_UI\\HelloToast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\subed\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master\\1.2_Part_A_Your_first_interactive_UI\\HelloToast\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

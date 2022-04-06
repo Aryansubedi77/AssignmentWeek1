@@ -1,0 +1,6 @@
+me/mahakagg/hellotoast/SecondActivity.java
+ me.mahakagg.hellotoast.SecondActivity
+me/mahakagg/hellotoast/MainActivity.java
+ me.mahakagg.hellotoast.MainActivity
+me/mahakagg/hellotoast/BuildConfig.java
+ me.mahakagg.hellotoast.BuildConfig
